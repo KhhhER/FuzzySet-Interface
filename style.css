@@ -1,0 +1,72 @@
+.button1
+{
+    width: 200px;
+    height: 22px;
+    position: relative;
+    left: 300px;
+    top: 0px;
+}
+.chart
+{
+    position: relative;
+    width: 700px; 
+    height: 600px;
+    left: 210px;
+    top: 0px;
+}
+.inpt1
+{
+    position: relative;
+    left: 300px;
+    top: 0px;
+}
+.inpt2
+{
+    position: relative;
+    left: 300px;
+    top: 0px;
+}
+.inpt3
+{
+    position: relative;
+    left: -49px;
+    top: 30px;
+}
+h1
+{
+    position: relative;
+    left: 300px;
+    top: 0px;
+    font-size: 14px;
+    font-family: "Arial", sans-serif;
+    width: 50px;
+}
+.button2
+{
+    width: 200px;
+    height: 22px;
+    position: relative;
+    left: 300px;
+    top: 0px;
+}
+.inpt4
+{
+    position: relative;
+    left: 300px;
+    top: 0px;
+}
+.inpt5
+{
+    position: relative;
+    left: 300px;
+    top: 0px;
+}
+.h2
+{
+    position: relative;
+    left: 1000px;
+    top: -300px;
+    font-size: 14px;
+    font-family: "Arial", sans-serif;
+    width: 200px;
+}
